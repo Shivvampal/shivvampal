@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm a Frontend Developer 👋</h1>
+<h1 align="center">Hi there, I'm Shivam a Frontend Developer 👋</h1>
 <h3 align="center">Turning ideas into pixels, and pixels into experiences ✨</h3>
 
 <p align="center">
