@@ -115,11 +115,11 @@ const shivam = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/shivam-pal-a3b562270/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="shivampal22245@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
